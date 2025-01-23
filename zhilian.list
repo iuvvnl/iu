@@ -14,3 +14,4 @@ DOMAIN,jsq.mooguu.xyz
 DOMAIN-KEYWORD,emby.my
 IP-CIDR,100.42.230.169/24,no-resolve
 IP-CIDR,154.29.159.230/24,no-resolve
+IP-CIDR,148.135.94.8/24,no-resolve
