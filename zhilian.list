@@ -23,4 +23,4 @@ DOMAIN,emby.wenjian.de
 DOMAIN,sxiaolong-my.sharepoint.com
 DOMAIN,media.doven.tv
 DOMAIN,cdn.lyrebirdemby.com
-IP-CIDR,188.172.228.65,no-resolve
+IP-CIDR,188.172.228.65/24,no-resolve
