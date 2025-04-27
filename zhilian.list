@@ -30,4 +30,4 @@ DOMAIN-KEYWORD,jingzhe.pro
 DOMAIN,emby-myg-de.vfing.de
 IP-CIDR,154.29.159.230/24,no-resolve
 DOMAIN-KEYWORD,204cloud.com
-IP-CIDR,193.122.114.13,no-resolve
+IP-CIDR,193.122.114.13/24,no-resolve
