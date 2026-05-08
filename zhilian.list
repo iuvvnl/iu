@@ -1,7 +1,4 @@
-DOMAIN-KEYWORD,carlos.trade
-DOMAIN,emby.yamo.uk
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub2.emby.wtf
+
 IP-CIDR,104.161.22.116/32,no-resolve
 DOMAIN-KEYWORD,embymv.link
 IP-CIDR,154.40.33.88/24,no-resolve
@@ -37,3 +34,4 @@ IP-CIDR,193.123.232.141/24,no-resolve
 IP-CIDR,123.99.200.137/24,no-resolve
 DOMAIN,wp.lyezi.cc
 DOMAIN,cf.xgua.de
+DOMAIN,speedtest-babybus.apple-cdn.net
